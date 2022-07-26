@@ -4,7 +4,7 @@ The project should run as a Java Applet. To quit the Applet viewer, click on "Qu
 
 ## Screenshots
 
-Calculator GUI
+
 <img width="536" alt="Image" src="https://user-images.githubusercontent.com/89951512/180935543-4f5b34fa-f141-4783-a004-5b4d5641772e.png">
 
 
