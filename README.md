@@ -2,6 +2,9 @@
 This calculator was designed using Java Swing and has included imports of acm. This was the first ever java project that I created, it works on infix to postfix conversion. Make sure to enter the expression through keyboard. The project helped me gain significant insight into the language, GUI concepts and some essential data structures such as Linked List, Stack, Queue and Arrays. 
 The project should run as a Java Applet. To quit the Applet viewer, click on "Quit" button.
 
+## Shunting Yard Algorithm used
+Expressions are parsed from left to right. Each number/operand is pushed on the stack whereas operators require us to pop the operand off the stack, the operation is then performed and the result is pushed back on the stack. Read more on https://en.wikipedia.org/wiki/Shunting_yard_algorithm
+
 ## Screenshots
 
 
